@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header_bg {
+    background-color: #89cff0;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+}
+
+.header_logo {
+    width: 200px;
+    height: 100px;
+    padding-top: 40px;
+}
+
+#site_link {
+    color: blue;
+}
+
+#date {
+    font-size: small
+}
+
+.photo_source {
+    font-size: x-small;
+}
+
+.highlighter {
+    background-color: yellow;
+}
+
+.ul {
+    padding-left: 100px;
+}
+
+#recommended_title {
+    color: grey;
+}
